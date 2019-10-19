@@ -13,7 +13,6 @@ String name="Ashutosh";
 byte a=10;
 short b=200;
 long c=57878907;
-
 float d=7.4f;
 
 
